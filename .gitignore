@@ -1,4 +1,4 @@
-
+bin
 *.o
 make_cdn_cia.exe
 make_cdn_cia
